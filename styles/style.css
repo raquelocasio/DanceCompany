@@ -1,0 +1,12 @@
+#section2 {
+    background-image: url('../images/section2background.png');
+    height: 796px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+button {
+    background-color: #ff6309;
+    color: #ffffff;
+}
